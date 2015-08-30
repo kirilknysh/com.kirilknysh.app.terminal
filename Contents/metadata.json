@@ -12,7 +12,7 @@
 	"scripts": "Javascript/init.js",
 	"images": {
 		"icon": {
-			"192x192": ""
+			"192x192": "Images/terminal-192.png"
 		}
 	}
 }
