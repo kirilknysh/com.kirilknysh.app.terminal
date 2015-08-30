@@ -1,0 +1,18 @@
+{
+	"identifier": "com.kirilknysh.app.terminal",
+	"name": "Terminal",
+	"version": "0.0.1",
+	"author": "Kiril Knysh",
+	"company": "kirilknysh",
+	"copyright": "kirilknysh 2015",
+	"description": "Terminal for your STB for Unix fans",
+	"categories": [
+		"lifestyle"
+	],
+	"scripts": "Javascript/init.js",
+	"images": {
+		"icon": {
+			"192x192": ""
+		}
+	}
+}
