@@ -1,3 +1,4 @@
+include('Javascript/core/theme.js');
 include('Javascript/views/TerminalView.js');
 
 MAF.application.init({

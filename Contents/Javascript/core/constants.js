@@ -1,0 +1,4 @@
+var Constants = {
+	HORIZONTAL_MARGIN: 50,
+	VERTICAL_MARGIN: 50
+};
